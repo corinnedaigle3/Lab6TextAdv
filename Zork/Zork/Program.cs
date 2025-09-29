@@ -34,7 +34,6 @@ namespace Zork
                 Console.Write("> ");
                 command = ToCommand(Console.ReadLine().Trim());
 
-                string outputString;
                 switch (command)
                 {
                     case Commands.QUIT:
