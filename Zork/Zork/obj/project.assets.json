@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\corin\\OneDrive\\UCF\\Fall2025\\Code2\\Lab6Text\\Zork\\Zork\\Zork.csproj",
+      "projectUniqueName": "C:\\Users\\corin\\OneDrive\\UCF\\Fall2025\\Code2\\Lab6TextAdv\\Zork\\Zork\\Zork.csproj",
       "projectName": "Zork",
-      "projectPath": "C:\\Users\\corin\\OneDrive\\UCF\\Fall2025\\Code2\\Lab6Text\\Zork\\Zork\\Zork.csproj",
+      "projectPath": "C:\\Users\\corin\\OneDrive\\UCF\\Fall2025\\Code2\\Lab6TextAdv\\Zork\\Zork\\Zork.csproj",
       "packagesPath": "C:\\Users\\corin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\corin\\OneDrive\\UCF\\Fall2025\\Code2\\Lab6Text\\Zork\\Zork\\obj\\",
+      "outputPath": "C:\\Users\\corin\\OneDrive\\UCF\\Fall2025\\Code2\\Lab6TextAdv\\Zork\\Zork\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
